@@ -1,4 +1,4 @@
-package com.programacion4.unidad4ej6.feature.producto.models;
+package com.programacion4.unidad4ej6.feature.insumo.models;
 
 import java.util.List;
 import java.util.ArrayList;
